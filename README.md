@@ -112,7 +112,7 @@ Jika menggunakan database bawaan, berikut adalah akun default untuk login:
 
 **Administrator:**
 - Username: `admin`
-- Password: `password` (atau cek tabel `users`)
+- Password: `admin123`
 
 **User / Pelanggan:**
 - Silakan registrasi akun baru di halaman utama.
@@ -139,6 +139,7 @@ Kontribusi selalu terbuka! Jika Anda ingin meningkatkan project ini, silakan:
 ---
 
 Managed with ❤️ by [Alfye]
+
 
 
 
