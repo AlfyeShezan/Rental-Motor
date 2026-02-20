@@ -134,8 +134,9 @@ Kontribusi selalu terbuka! Jika Anda ingin meningkatkan project ini, silakan:
 
 **Alfi Dias Saputra**
 - GitHub: [@alfidias](https://github.com/alfidias)
-- Email: email@example.com
+- Email: alfidias1511@gmail.com
 
 ---
 
-Managed with ❤️ by [JS RENT Team]
+Managed with ❤️ by [Alfye]
+
