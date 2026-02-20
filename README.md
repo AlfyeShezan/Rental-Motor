@@ -13,7 +13,7 @@
 | Halaman Utama | Dashboard Admin |
 |:---:|:---:|
 | ![Halaman Utama](assets/img/screenshot-home.png) | ![Dashboard Admin](assets/img/screenshot-admin.png) |
-*(Ganti dengan screenshot asli project Anda)*
+
 
 ---
 
@@ -139,5 +139,6 @@ Kontribusi selalu terbuka! Jika Anda ingin meningkatkan project ini, silakan:
 ---
 
 Managed with ❤️ by [Alfye]
+
 
 
