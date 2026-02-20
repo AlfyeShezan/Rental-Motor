@@ -1,0 +1,23 @@
+{
+    "name": "JS RENT - Rental Motor Jogja",
+    "short_name": "JS RENT",
+    "description": "Layanan sewa motor premium terbaik di Yogyakarta dengan syarat mudah dan armada terbaru.",
+    "start_url": "/Rental-Motor/index.php",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#14b8a6",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/Rental-Motor/uploads/settings/js_rent_logo.svg",
+            "type": "image/svg+xml",
+            "sizes": "any",
+            "purpose": "any"
+        },
+        {
+            "src": "/Rental-Motor/uploads/settings/logo_1771068190.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
