@@ -133,10 +133,11 @@ Kontribusi selalu terbuka! Jika Anda ingin meningkatkan project ini, silakan:
 ## 📝 Author
 
 **Alfi Dias Saputra**
-- GitHub: [@alfidias](https://github.com/alfidias)
+- GitHub: https://github.com/AlfyeShezan/
 - Email: alfidias1511@gmail.com
 
 ---
 
 Managed with ❤️ by [Alfye]
+
 
